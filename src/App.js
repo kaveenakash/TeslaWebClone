@@ -20,7 +20,7 @@ function App() {
           desc="Money-back gurantee"
           descLink=""
           backgroundImg={SolarPanels}
-          leftBtnText=""
+          leftBtnText="Order Now"
           rightBtnText="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"

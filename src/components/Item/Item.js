@@ -19,7 +19,7 @@ const Item = (props) => {
           <div className="item_buttons">
             <Button
               imp="primary"
-              text={props.leftBtnLink}
+              text={props.leftBtnText}
               link={props.leftBtnLink}
             />
             {props.twoButtons && (
